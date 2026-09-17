@@ -54,5 +54,62 @@
       "description": "Easy-to-use coffee maker that prepares fresh and delicious coffee quickly for your home or office.",
       "inStock": true
     }
+  ],
+
+  "books": [
+    {
+      "id": 1,
+      "name": "Likhon Habits",
+      "price": 18.99,
+      "category": "Self-Help",
+      "author": "James Clear",
+      "description": "A practical book about building good habits, breaking bad ones, and making small changes that lead to remarkable results.",
+      "inStock": true
+    },
+    {
+      "id": 2,
+      "name": "This Alchemist",
+      "price": 14.99,
+      "category": "Fiction",
+      "author": "Paulo Coelho",
+      "description": "A philosophical novel about a young shepherd who follows his dreams and discovers the meaning of life and destiny.",
+      "inStock": true
+    },
+    {
+      "id": 3,
+      "name": "Rich Dad Poor Dad",  
+      "price": 16.99,
+      "category": "Finance",
+      "author": "Robert Kiyosaki",
+      "description": "A personal finance book that explains different approaches to money, investing, financial education, and wealth building.",
+      "inStock": true
+    },
+    {
+      "id": 4,
+      "name": "Clean Code",
+      "price": 42.99,
+      "category": "Programming",
+      "author": "Robert C. Martin",
+      "description": "A programming book that teaches developers how to write readable, maintainable, and professional-quality code.",
+      "inStock": true
+    },
+    {
+      "id": 5,
+      "name": "The Psychology of Money",
+      "price": 19.99,
+      "category": "Finance",
+      "author": "Morgan Housel",
+      "description": "A book about how emotions, behavior, and personal experiences influence the way people think about and manage money.",
+      "inStock": false
+    },
+    {
+      "id": 6,
+      "name": "The Pragmatic Programmer",
+      "price": 39.99,
+      "category": "Programming",
+      "author": "David Thomas and Andrew Hunt",
+      "description": "A classic programming book covering practical techniques, problem-solving, software design, and professional development.",
+      "inStock": true
+    }
   ]
 }
