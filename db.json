@@ -59,7 +59,7 @@
   "books": [
     {
       "id": 1,
-      "name": "Likhon Habits",
+      "name": "Daily Habits",
       "price": 18.99,
       "category": "Self-Help",
       "author": "James Clear",
